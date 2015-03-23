@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-lang-2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/ramil.safin/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ramil.safin/j-text-utils-0.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
